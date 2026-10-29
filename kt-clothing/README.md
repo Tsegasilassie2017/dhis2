@@ -56,8 +56,9 @@ The map link searches the neighborhood; it is not a verified shop pin.
 
 Add the actual public phone number and full social profile URLs in `business.js`.
 Empty or invalid contacts stay hidden. These are public details, never secrets.
-Real prices have not yet been provided; the site offers a price-enquiry/quote brief
-and does not invent prices, fabric inclusions, or delivery commitments.
+Office dresses are priced at ETB 5,000–10,000, including fabric, as supplied by the business.
+Customers can call +251 939 456 198 to confirm a quote. Instagram: https://www.instagram.com/tsetsetfly/. Other social links remain unset
+until the business provides the exact profiles.
 
 ## Publish with Yagara hosting
 
